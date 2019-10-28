@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "/home/supratim/Desktop/OS_Lab"
+		},
+		{
+			"name": "OS_Lab10",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string.h": "c"
+		}
+	}
+}
