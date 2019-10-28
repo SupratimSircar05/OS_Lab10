@@ -3,4 +3,4 @@ Files of OS Lab 10 (pthread)
 
 Compile with:
 
-gcc <filename> -pthread
+gcc filename -pthread
