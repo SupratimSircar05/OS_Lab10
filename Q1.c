@@ -1,8 +1,8 @@
+// to create a thread and check whether the thread is successfully created or not.
+
 #include<stdio.h>
 #include<string.h>
 #include<pthread.h>
-#include<stdlib.h>
-#include<unistd.h>
 
 pthread_t tid[2];
 

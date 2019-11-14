@@ -1,3 +1,5 @@
+// print "Hello World" message by pthread.
+
 #include <pthread.h>
 #include <stdio.h>
 #include <stdlib.h>

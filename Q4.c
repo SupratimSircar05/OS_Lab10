@@ -1,3 +1,7 @@
+// one thread prints odd nos. from 1 to 50
+// another thread prints even nos. from 1 to 50
+// so basically printing 1 to 50
+
 #include <stdio.h>
 #include <pthread.h>
 

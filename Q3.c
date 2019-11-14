@@ -1,4 +1,8 @@
-#include <stdio.h> 
+// create 2 threads
+// one thread adds one half of the array, other thread adds the other half
+// at the end, main process shows the sum of all the elements.
+
+#include <stdio.h>
 #include <pthread.h> 
 
 // size of array 

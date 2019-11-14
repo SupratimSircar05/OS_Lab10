@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OS_Lab10_Q4.dir/Q4.c.o  -o OS_Lab10_Q4 -pthread 

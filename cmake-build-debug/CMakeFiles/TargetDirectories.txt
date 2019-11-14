@@ -1,0 +1,6 @@
+/home/supratim/Desktop/OS_Lab/OS_Lab10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/supratim/Desktop/OS_Lab/OS_Lab10/cmake-build-debug/CMakeFiles/OS_Lab10_Q3.dir
+/home/supratim/Desktop/OS_Lab/OS_Lab10/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/supratim/Desktop/OS_Lab/OS_Lab10/cmake-build-debug/CMakeFiles/OS_Lab10_Q4.dir
+/home/supratim/Desktop/OS_Lab/OS_Lab10/cmake-build-debug/CMakeFiles/OS_Lab10_Q1.dir
+/home/supratim/Desktop/OS_Lab/OS_Lab10/cmake-build-debug/CMakeFiles/OS_Lab10_Q2.dir

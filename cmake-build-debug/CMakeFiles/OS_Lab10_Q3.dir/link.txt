@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/OS_Lab10_Q3.dir/Q3.c.o  -o OS_Lab10_Q3 -pthread 
