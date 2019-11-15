@@ -38,17 +38,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a97f92b5-788a-4477-ae12-c1fb7979d1da" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OS_Lab10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OS Lab 10 Questions.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OS_Lab10.code-workspace" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1.c" beforeDir="false" afterPath="$PROJECT_DIR$/Q1.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q2.c" beforeDir="false" afterPath="$PROJECT_DIR$/Q2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q3.c" beforeDir="false" afterPath="$PROJECT_DIR$/Q3.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q4.c" beforeDir="false" afterPath="$PROJECT_DIR$/Q4.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OS_Lab10_Q1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OS_Lab10_Q2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/OS_Lab10_Q3" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -132,8 +126,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573728886917</updated>
-      <workItem from="1573728888301" duration="1013000" />
+      <workItem from="1573728888301" duration="1097000" />
+      <workItem from="1573790770504" duration="364000" />
     </task>
+    <task id="LOCAL-00001" summary="added problem descriptions and fixed CMakeLists.txt for pthread functionality.">
+      <created>1573729965794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573729965794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,10 +147,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added problem descriptions and fixed CMakeLists.txt for pthread functionality." />
+    <option name="LAST_COMMIT_MESSAGE" value="added problem descriptions and fixed CMakeLists.txt for pthread functionality." />
   </component>
 </project>

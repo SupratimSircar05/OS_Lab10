@@ -8,11 +8,10 @@ find_package(Threads REQUIRED)
 
 
 add_executable(OS_Lab10_Q1 Q1.c)
-add_executable(OS_Lab10_Q2 Q2.c)
-add_executable(OS_Lab10_Q3 Q3.c)
-add_executable(OS_Lab10_Q4 Q4.c)
-
 target_link_libraries(OS_Lab10_Q1 Threads::Threads)
+add_executable(OS_Lab10_Q2 Q2.c)
 target_link_libraries(OS_Lab10_Q2 Threads::Threads)
+add_executable(OS_Lab10_Q3 Q3.c)
 target_link_libraries(OS_Lab10_Q3 Threads::Threads)
+add_executable(OS_Lab10_Q4 Q4.c)
 target_link_libraries(OS_Lab10_Q4 Threads::Threads)
